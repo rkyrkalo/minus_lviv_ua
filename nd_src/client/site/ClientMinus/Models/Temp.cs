@@ -1,7 +1,7 @@
 ﻿namespace ClientMinus.Models
 {
-    public enum Gender
+    public enum Temp
     {
-       None, Male, Female
+        Slow, Normal, Fast
     }
 }

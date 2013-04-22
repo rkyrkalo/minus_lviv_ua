@@ -1,11 +1,9 @@
 ﻿namespace ClientMinus.Models.Friends
 {
-    public class Friendship
+    public class UserBlocks
     {
-
         public string User { get; set; }
 
-        public object Friends { get; set; }
-
+        public istring Blocks { get; set; }
     }
 }
